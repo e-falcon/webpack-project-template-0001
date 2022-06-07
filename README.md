@@ -1,1 +1,2 @@
-"webpack-project-template-00001" 
+webpack-project-template-00001
+
